@@ -1,2 +1,26 @@
-# Hostname-IP-Finder
-A simple Python networking utility that retrieves and displays the hostname and local IP address of the current computer. This beginner-friendly project demonstrates the use of Python’s built-in socket module for basic network information and system identification.
+# 🌐 Hostname & IP Finder
+
+A simple and beginner-friendly Python program that finds and displays your computer's **hostname** and **IP address**.
+
+This project demonstrates how Python can interact with the computer's network configuration using the built-in `socket` module.
+
+## ✨ Features
+
+- 🖥️ Displays the computer hostname
+- 🌐 Finds the local IP address
+- ⚡ Lightweight and fast
+- 🔒 Uses only Python's built-in modules
+- 🎯 Beginner-friendly networking project
+
+## 🛠️ Technologies Used
+
+- Python 3
+- Socket Module
+
+## 📂 Project Structure
+
+```text
+hostname-ip-finder/
+│
+├── hostname_ip.py
+└── README.md
