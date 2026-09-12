@@ -8,7 +8,7 @@ This project demonstrates how Python can interact with the computer's network co
 
 - 🖥️ Displays the computer hostname
 - 🌐 Finds the local IP address
-- ⚡ Lightweight and fast
+- ⚡ Lightweight and fast  
 - 🔒 Uses only Python's built-in modules
 - 🎯 Beginner-friendly networking project
 
